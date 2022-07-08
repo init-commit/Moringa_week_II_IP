@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    border: solid red;
+    width: 90%;
+    margin-left: 5%;
+}
+
+.navbar{
+    border: solid green;
+}
+
+.veges-background{
+    width: 500px;
+}
+
+.exist{
+    display:flex;
+    justify-content: ;
+}
+
+.exist-image{
+    width: 30%;
+}
