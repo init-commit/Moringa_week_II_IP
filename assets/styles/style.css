@@ -5,8 +5,8 @@
 
 body{
     border: solid red;
-    width: 90%;
-    margin-left: 5%;
+    width: 100%;
+    /* margin-left: 5%; */
 }
 
 .navbar{
@@ -24,4 +24,149 @@ body{
 
 .exist-image{
     width: 30%;
+}
+
+.popular{
+    border: solid green;
+    margin-bottom: 30px;
+}
+
+.newest-item{
+    border: solid yellow;
+    /* display: flex; */
+    /* justify-content: space-evenly; */
+}
+
+.second{
+    width: 10%;
+}
+
+/* RATINGS */
+
+.ratings{
+    display: flex;
+    /* justify-content: space-between; */
+    border: solid brown;
+    /* box-sizing: border-box; */
+    height: 300px;
+    margin-bottom: 100px;
+}
+
+.ratings-in{
+    margin-top: 50px;
+    border: solid blue;
+}
+
+
+/* FOOTER */
+footer{
+    background-color: black;
+    color: #FAFAFA;
+    height: 1200px;
+}
+
+.footer-top{
+    /* box-sizing: border-box; */
+    padding: 50px;
+    border: solid blue;
+    text-align: center;
+    border-bottom: solid 6px white;
+    margin-bottom: 5%;
+    /* width: 90%; */
+
+}
+
+form {
+    width: 500px;
+    border: solid white;
+    margin: 2% auto;
+    padding: 50px;
+}
+
+.header {
+    font-size: 30px;
+    letter-spacing: 2px;
+    /* border: solid green; */
+    margin-bottom: 2%;
+}
+
+.description{
+    /* border: solid; */
+    padding: 10px;
+    margin-bottom: 4%;
+}
+
+.input-box{
+    display: flex;
+    align-items: center;
+    border: solid red;
+}
+
+#email{
+    width: 60%;
+    text-indent: 7%;
+    background: #FAFAFA;
+}
+
+#submit{
+    width: 40%;
+    background: orange;
+    cursor: pointer;
+    transition: .3s ease-in-out;
+    color: #FAFAFA;
+}
+
+#submit:hover{
+    background: rgb(19, 133, 120);
+}
+
+.form-button{
+    height: 40px;
+    border: none;
+}
+
+.footer-below{
+    display: flex;
+}
+
+.get-app{
+    border: solid yellow;
+    width: 30%;
+    font-family: 'Poppins';
+    padding: 30px;
+}
+
+.icons{
+    float: left;
+    width: 20%;
+}
+
+.c-p-o-main{
+    border: solid rgb(231, 216, 216);
+    width: 60%;
+    margin-left: 5%;
+    display: flex;
+    /* justify-content: space-between; */
+    height: 400px;
+
+    
+}
+
+.c-p-o-main ul li{
+    list-style: none;
+    margin: 10%;
+}
+
+.c-p-o{
+    border: solid green;
+    width: 30%;
+    /* text-align: justify; */
+    font-size: 20px;
+    /* padding-bottom: 50%; */
+}
+
+.copy-right{
+    border: solid red;
+    padding: 25px;
+    text-align: center;
 }
