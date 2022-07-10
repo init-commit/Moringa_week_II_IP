@@ -1,9 +1,12 @@
 # Moringa_week1_IP
-### A websire demonstration of the concepts learnt in week 2.
+### A website demonstration of the concepts learnt in week 2.
 
 > ## Author name: Ian Mike Kaibi
->> ### Reach out:
 
+
+---
+
+Attached is the [live link](https://bit-bytes-bits.github.io/Moringa_week_II_IP/) to my repository.
 
 The MIT License (MIT)
 Copyright © 2022 [Ian Mike Kaibi](https://github.com/Bit-Bytes-Bits)  
@@ -19,3 +22,5 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 
 Thank you.
+
+Feel free to reach out on [Twitter](https://twitter.com/Bit_Bytes_Bits)
