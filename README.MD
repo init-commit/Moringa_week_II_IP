@@ -23,7 +23,7 @@ It mimicks AgriPlus, an organization that helps farmers reachout to the market
 
 ![view2](./assets/images/working2.png)
 
-Attached is the [live link](https://bit-bytes-bits.github.io/Moringa_week_II_IP/) to my repository.
+### Attached is the [live link](https://bit-bytes-bits.github.io/Moringa_week_II_IP/) to my repository.
 
 The MIT License (MIT)
 Copyright © 2022 [Ian Mike Kaibi](https://github.com/Bit-Bytes-Bits)  
@@ -40,4 +40,4 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 Thank you.
 
-Feel free to reach out on [Twitter](https://twitter.com/Bit_Bytes_Bits)
+Feel free to reach out on [Twitter](https://twitter.com/Bit_Bytes_Bits).

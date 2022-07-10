@@ -27,13 +27,11 @@ body {
     width: 45%;
     justify-content: space-evenly;
     font-size: 30px;
-
 }
 
 .nav-right {
     float: right;
     margin-left: 5%;
-
 }
 
 .login {
