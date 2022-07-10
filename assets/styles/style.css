@@ -11,20 +11,59 @@ body{
 
 .navbar{
     border: solid green;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+.nav-middle ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 50px;
+    font-size: 30px;
+    border: solid;
+}
+
+.nav-middle ul li button{
+    padding: 20px;
+    color: #FAFAFA;
+    background-color: blue;
+    font-size: 30px;
 }
 
 .veges-background{
-    width: 500px;
+    width: 100%;
+    border: solid rgb(1, 1, 16);
+    /* background:  url('../images/image1.png'); */
+    background-repeat: no-repeat;
+    /* height: 100vh; */
+    background-size: cover;
+    /* background-color: darkgoldenrod; */
+}
+
+
+.statistics{
+    border: solid;
+    display: flex;
+    padding: 50px;
+    width: 50%;
+    justify-content: space-evenly;
+    font-family: 'Poppins';
+    font-weight: 900;
+    font-size: 20px;
 }
 
 .exist{
     display:flex;
-    justify-content: ;
+    border: solid ;
 }
 
 .exist-image{
-    width: 30%;
+    border: solid red;
+    width: 100%;
+    padding: 50px;
 }
+
 /* CATEGORIES OF PRODUCTS */
 
 .category{
