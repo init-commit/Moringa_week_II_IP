@@ -1,10 +1,16 @@
-# Moringa_week1_IP
+# Moringa_week 2 IP
+
+## Author name: Ian Mike Kaibi
+  
+
 ### A website demonstration of the concepts learnt in week 2.
 
-> ## Author name: Ian Mike Kaibi
+![view](./assets/images/working1.png)
 
 
 ---
+
+![view2](./assets/images/working2.png)
 
 Attached is the [live link](https://bit-bytes-bits.github.io/Moringa_week_II_IP/) to my repository.
 
