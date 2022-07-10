@@ -1,5 +1,5 @@
 # Moringa_week1_IP
-### A real estate website demonstration of concepts learnt in week 2 at Moringa School.
+### A websire demonstration of the concepts learnt in week 2.
 
 > ## Author name: Ian Mike Kaibi
 >> ### Reach out:
