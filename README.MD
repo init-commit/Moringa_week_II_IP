@@ -1,9 +1,20 @@
 # Moringa_week 2 IP
 
 ## Author name: Ian Mike Kaibi
+## Email: 
+*ian.kaibi@student.moringaschool.com*
   
 
-### A website demonstration of the concepts learnt in week 2.
+### A website demonstration of the concepts learnt in week 2.  
+
+This website has been built through a combination of `HTML` and `CSS`. 
+
+It mimicks AgriPlus, an organization that helps farmers reachout to the market
+  
+    
+      
+      Note:
+      For best view, open the web page at 50% view
 
 ![view](./assets/images/working1.png)
 
