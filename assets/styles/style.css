@@ -9,9 +9,9 @@ body{
     /* margin-left: 5%; */
 }
 
-main{
+/* main{
     margin-left: 50px;
-}
+} */
 
 .navbar{
     border: solid green;
@@ -133,6 +133,10 @@ main{
 .popular h1{
     font-size: 40px;
     margin-bottom: 3%;
+    padding: 30px, 0px !important;
+    padding-bottom: 1%;
+    width: 20%;
+    border-bottom: 9px solid#ED661F;
 }
 
 .elements{
@@ -161,44 +165,103 @@ main{
     font-size: 22px;
     margin-bottom: 5%;
 }
+
+.see-all-button{
+    border: solid green;
+    padding: 80px;
+}
+
+.see-all-button button{
+    background-color: #FAFAFA;
+    color: #000000;
+    border: none;
+    font-size: 30px;
+    float: right;
+    cursor: pointer;
+}
+
+.see-all-button button span{
+    text-decoration: underline;
+}
+
 /* .display-images p{
     font-size: 20px;
     margin-bottom: 5%;
 } */
-
+.divide{
+    background-color: rgb(201, 74, 74);
+    border: solid grey;
+}
 /* RATINGS */
 .esteem{
-    border: solid grey;
+    border: solid blue;
+    padding-top: 50px;
 
+}
+
+.esteem h2{
+    font-family: 'Poppins';
+    font-size: 40px;
+    margin-bottom: 2%;
 }
 .ratings{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     /* align-items: center; */
     border: solid rgb(223, 18, 223);
     /* box-sizing: border-box; */
-    height: 700px;
-    margin-bottom: 100px;
-}
-
-.ratings h2{
-    border: solid black;
+    /* height: 500px; */
+    margin-bottom: 50px;
+    padding: 90px;
 }
 
 .ratings-in{
+    padding: 50px;
     margin-top: 50px;
     border: solid blue;
     /* display: flex; */
     width: 20%;
+    
     /* align-items: center; */
 }
+.stars{
+    border: solid;
+}
+.comments{
+    font-size: 40px;
+    padding-bottom: 1%;
+    border: solid;
+}
 
+.names{
+    margin-top: 26%;
+}
+
+.names2{
+    border: solid;
+    margin-top: 30%;
+    padding: 30px;
+}
+
+.read-more-button{
+    padding: 80px;
+}
+
+.read-more-button button{
+    background-color: #FAFAFA;
+    color: #000000;
+    border: none;
+    font-size: 30px;
+    float: right;
+    cursor: pointer;
+}
 
 /* FOOTER */
 footer{
     background-color: black;
     color: #FAFAFA;
-    height: 1500px;
+    /* height: 1500px; */
+    font-family: 'Poppins';
 }
 
 .footer-top{
@@ -213,10 +276,10 @@ footer{
 }
 
 form {
-    width: 500px;
+    width: 70%;
     border: solid white;
     margin: 2% auto;
-    padding: 50px;
+    /* padding: 150px; */
 }
 
 .header {
@@ -229,7 +292,7 @@ form {
 .description{
     /* border: solid; */
     padding: 10px;
-    margin-bottom: 4%;
+    /* margin-bottom: 1%; */
 }
 
 .input-box{
@@ -239,17 +302,21 @@ form {
 }
 
 #email{
-    width: 60%;
+    margin-left: 20%;
+    width: 30%;
     text-indent: 7%;
     background: #FAFAFA;
+    padding: 20px;
 }
 
 #submit{
-    width: 40%;
-    background: orange;
+    width: 20%;
+    background: #ED661F;
     cursor: pointer;
     transition: .3s ease-in-out;
     color: #FAFAFA;
+    font-size: 30px;
+    padding: 10px;
 }
 
 #submit:hover{
@@ -257,7 +324,7 @@ form {
 }
 
 .form-button{
-    height: 40px;
+    /* height: 0px; */
     border: none;
 }
 
@@ -272,10 +339,14 @@ form {
     padding: 30px;
 }
 
-.icons{
+.icons {
     float: left;
     width: 20%;
 }
+
+/* .icons i{
+    size: 30px;
+} */
 
 .c-p-o-main{
     border: solid rgb(231, 216, 216);
@@ -291,19 +362,25 @@ form {
 .c-p-o-main ul li{
     list-style: none;
     margin: 10%;
+    /* text-align: center; */
 }
 
 .c-p-o{
     border: solid green;
-    width: 30%;
+    width: 33%;
     /* text-align: justify; */
-    font-size: 20px;
+    /* font-size: 20px; */
     /* padding-bottom: 50%; */
 }
 
 .copy-right{
     border: solid red;
-    padding: 25px;
-    text-align: center;
+    padding-top: 55px;
+    text-align: left;
     margin-top: 2%;
+}
+
+.copy-right p{
+    font-size: 30px;
+    text-align: center;
 }
